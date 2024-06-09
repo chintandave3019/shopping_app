@@ -1,16 +1,25 @@
-# testuser
+Flutter SDK:3.16.0
 
-A new Flutter project.
+Notes:
+implemented 3 screen basic ui with validations(without image)
 
-## Getting Started
+Validations:
+Email: As per the standard emailid
+Name: Minimum one characater not allowing space
+Password:Minium one character
 
-This project is a starting point for a Flutter application.
+State Management:Getx
 
-A few resources to get you started if this is your first Flutter project:
+Suggesions(what we can do)
+- create a common image file like appconstants
+- common button and textstyle for application
+- can create custom widget for avoid multiple time same code
+- can use routes for navigation
+- can add screen utils
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- We can add above point,but due to time limit,i don't added,we can implemet this point one time whenever we septup poject, so its only one time time taking process.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- let me know if you have any query. 
+
+
+
